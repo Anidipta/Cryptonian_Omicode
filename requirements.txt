@@ -10,3 +10,4 @@ streamlit_javascript
 transformers
 google-generativeai
 plotly
+torch
